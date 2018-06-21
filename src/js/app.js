@@ -1,10 +1,9 @@
-/* jshint esnext:true */
-
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import Comp1 from './components/comp1';
+import List from './components/List';
 import Comp2 from './components/comp2';
 import Comp3 from './components/comp3';
+import {profiles} from './simulateData';
 
 class App extends Component {
 
@@ -17,9 +16,12 @@ class App extends Component {
 	}
 
 	render() {
+		const obj = {};
+		obj.profile = profiles;
+		const x = undefined;
 		return (<div>
 					<h1>Salam 2</h1>
-					<Comp1 />
+					<List {...obj}/>
 				</div>);
 	}
 

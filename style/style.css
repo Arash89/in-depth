@@ -25,3 +25,21 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+
+.list-depth {
+  display: block;
+  clear: both;
+}
+
+.profile-description, .profile-image {
+  display: block;
+  float: left;
+  margin: 5px;
+}
+
+.profile-image {
+  width: 64px;
+  height: 64px;
+}
+
+
