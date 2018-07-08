@@ -1,8 +1,6 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import List from './components/List';
-import Comp2 from './components/comp2';
-import Comp3 from './components/comp3';
 import {profiles} from './simulateData';
 
 class App extends Component {

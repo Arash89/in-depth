@@ -7,7 +7,10 @@ export const profiles = [
       "last": "Cunningham"
     },
     "imagePath": "https://herringtondarkholme.github.io/images/avatar.gif",
-    "text": "Hello, Villarreal! You have 7 unread messages."
+    "description": "Hello, Villarreal! You have 7 unread messages.",
+    "email": "Villarreal@yahoo.com",
+    "twitter": "twitter/Villarreal",
+    "phone": "408-708-8796 "
   },
   {
     "_id": "5b2ae7b7b6cdc0f411e50348",
@@ -17,7 +20,9 @@ export const profiles = [
       "last": "Wallace"
     },
     "imagePath": "https://herringtondarkholme.github.io/images/avatar.gif",
-    "text": "Hello, Tina! You have 7 unread messages."
+    "description": "Hello, Tina! You have 7 unread messages.",
+    "twitter": "twitter/Villarreal",
+    "phone": "408-708-8796 "
   },
   {
     "_id": "5b2ae7b7e29401da37603d77",
@@ -27,7 +32,9 @@ export const profiles = [
       "last": "Knapp"
     },
     "imagePath": "https://herringtondarkholme.github.io/images/avatar.gif",
-    "text": "Hello, Twila! You have 10 unread messages."
+    "description": "Hello, Twila! You have 10 unread messages.",
+    "email": "Villarreal@yahoo.com",
+    "twitter": "twitter/Villarreal",
   },
   {
     "_id": "5b2ae7b7a2ef525e40877349",
@@ -37,7 +44,8 @@ export const profiles = [
       "last": "Price"
     },
     "imagePath": "https://herringtondarkholme.github.io/images/avatar.gif",
-    "text": "Hello, Frazier! You have 5 unread messages."
+    "description": "Hello, Frazier! You have 5 unread messages.",
+    "phone": "408-708-8796 "
   },
   {
     "_id": "5b2ae7b75a2d66c5244424d9",
@@ -47,6 +55,9 @@ export const profiles = [
       "last": "Figueroa"
     },
     "imagePath": "https://herringtondarkholme.github.io/images/avatar.gif",
-    "text": "Hello, Bertha! You have 9 unread messages."
+    "email": "Villarreal@yahoo.com",
+    "twitter": "twitter/Villarreal",
+    "phone": "408-708-8796 ",
+    "description": "Hello, Bertha! You have 9 unread messages."
   }
 ];

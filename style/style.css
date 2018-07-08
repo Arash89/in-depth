@@ -31,7 +31,7 @@
   clear: both;
 }
 
-.profile-description, .profile-image {
+.profile-image, .detail {
   display: block;
   float: left;
   margin: 5px;
@@ -42,4 +42,8 @@
   height: 64px;
 }
 
+.profile-description {
+  display: block;
+  margin: 5px;
+}
 
